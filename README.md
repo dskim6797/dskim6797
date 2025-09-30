@@ -19,13 +19,6 @@
   <br/>
   <br/>
 
-  ## 🎓 Education
-  ### 2022.03 – 2025.08 울산대학교 전기전자컴퓨터공학과 의용생체공학전공 박사 수료
-  ### 2020.03 – 2022.02 울산대학교 전기전자컴퓨터공학과 의용생체공학전공 석사 졸업
-  ### 2016.03 – 2020.02 울산대학교 공과대학 전기공학부 의공학전공 학사 졸업
-  <br/>
-  <br/>
-
   
   ## 🧱 Tech Stack
   
@@ -61,71 +54,80 @@
   ## 📜 Project History
   
   ### 📅 2020
-  #### **-순음청력검사 절차 최적화 알고리즘 개발**  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**주요 내용:** LSTM을 이용한 순음청력검사 절차 최적화 알고리즘 개발.  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tech Stack:** `Matlab` (Deep Learning Toolbox, Signal Processing Toolbox)
+  #### &nbsp;&nbsp;&nbsp;**-순음청력검사 절차 최적화 알고리즘 개발**  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**주요 내용:** LSTM을 이용한 순음청력검사 절차 최적화 알고리즘 개발.  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tech Stack:** `Matlab` (Deep Learning Toolbox, Signal Processing Toolbox)
   
   <br/>
   
   ### 📅 2019
-  #### **-Deep learning을 이용한 파킨슨병 동작 수행 영상으로부터 중증도 분류 알고리즘 개발**  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**주요 내용:** 파킨슨병 환자의 특정 동작 수행 영상으로부터 CNN 기반의 중증도 분류 알고리즘 개발.  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tech Stack:** `Python` (`pytorch`, `numpy`, `sklearn`, `cv2`, `pandas`)
+  #### &nbsp;&nbsp;&nbsp;**-Deep learning을 이용한 파킨슨병 동작 수행 영상으로부터 중증도 분류 알고리즘 개발**  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**주요 내용:** 파킨슨병 환자의 특정 동작 수행 영상으로부터 CNN 기반의 중증도 분류 알고리즘 개발.  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tech Stack:** `Python` (`pytorch`, `numpy`, `sklearn`, `cv2`, `pandas`)
   
   <br/>
   
-  #### **-뇌구조 기반의 머신러닝을 이용한 뇌파 분류 정확도 향상 연구**  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **주요 내용:** 뇌구조에 기반한 디코더를 이용한 뇌파 신호 분류 정확도 향상 연구.  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Tech Stack:** `Matlab` (`eeglab`, `Statistics and ML Toolbox`, Signal Processing Toolbox)  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Achievements:**  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;울산대학교 캡스톤디자인 경진대회 최우수상 수상  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;국제전략기술포럼(IFOST, Russia) 포스터 발표 및 Excellent Award 수상  
+  #### &nbsp;&nbsp;&nbsp;**-뇌구조 기반의 머신러닝을 이용한 뇌파 분류 정확도 향상 연구**  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **주요 내용:** 뇌구조에 기반한 디코더를 이용한 뇌파 신호 분류 정확도 향상 연구.  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Tech Stack:** `Matlab` (`eeglab`, `Statistics and ML Toolbox`, Signal Processing Toolbox)  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Achievements:**  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;울산대학교 캡스톤디자인 경진대회 최우수상 수상  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;국제전략기술포럼(IFOST, Russia) 포스터 발표 및 Excellent Award 수상  
   
   <br/>
   
   ### 📅 2018
-  #### **-머신러닝 기반 뇌파 분류 연구**  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**주요 내용:** SVM과 Feature Engineering을 이용하여 뇌파 신호의 분류 연구.  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tech Stack:** `Matlab` (`eeglab`, `Statistics and ML Toolbox`, Signal Processing Toolbox)  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Achievements:**  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LINC 사업단 주관 글로벌캡스톤디자인(WCC) 과제 선정  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;중국 샤먼에서 포스터 발표 진행
+  #### &nbsp;&nbsp;&nbsp;**-머신러닝 기반 뇌파 분류 연구**  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**주요 내용:** SVM과 Feature Engineering을 이용하여 뇌파 신호의 분류 연구.  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tech Stack:** `Matlab` (`eeglab`, `Statistics and ML Toolbox`, Signal Processing Toolbox)  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Achievements:**  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LINC 사업단 주관 글로벌캡스톤디자인(WCC) 과제 선정  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;중국 샤먼에서 포스터 발표 진행
   
   <br/>
   
-  #### **-Image processing을 통한 종양 검출 알고리즘 개발**  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**주요 내용:** 2D MRI 이미지를 이미지 프로세싱을 통해 뇌의 종양을 검출하고, 3D형태로 재구성하여 위치를 가시화 진행.  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tech Stack:** `Matlab` (Image Processing Toolbox, Signal Processing Toolbox)
+  #### &nbsp;&nbsp;&nbsp;**-Image processing을 통한 종양 검출 알고리즘 개발**  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**주요 내용:** 2D MRI 이미지를 이미지 프로세싱을 통해 뇌의 종양을 검출하고, 3D형태로 재구성하여 위치를 가시화 진행.  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tech Stack:** `Matlab` (Image Processing Toolbox, Signal Processing Toolbox)
   
   <br/>
   
-  #### **-EMG를 이용한 모스코드 기반 artificial arm 제어 시스템 개발**  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**주요 내용:** Labview를 이용하여 아두이노 EMG 모듈에서 근수축 신호를 받아 모스부호로 변환하고, artificial arm을 제어하는 시스템 개발.  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tech Stack:** `Arduino`, `Labview`  
+  #### &nbsp;&nbsp;&nbsp;**-EMG를 이용한 모스코드 기반 artificial arm 제어 시스템 개발**  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**주요 내용:** Labview를 이용하여 아두이노 EMG 모듈에서 근수축 신호를 받아 모스부호로 변환하고, artificial arm을 제어하는 시스템 개발.  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tech Stack:** `Arduino`, `Labview`  
   
   <br/>
   
   ### 📅 2017
-  #### **-루게릭병 환자를 위한 눈 개폐 상태에 따른 의사소통 GUI 개발**  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**주요 내용:** 얼굴 영상에서 눈을 인식한 뒤, 양 눈의 깜빡임 상태를 인식하여 모스부호 기반의 알파벳 변환 GUI 개발.  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tech Stack:** `Android`, `Matlab` (Image Processing Toolbox, Signal Processing Toolbox)  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Achievements:**  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;전국 의공학 학부생 아이디어 공모전 우수상 수상  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URP 학부생연구지원프로그램 선정 (한국과학창의재단)
+  #### &nbsp;&nbsp;&nbsp;**-루게릭병 환자를 위한 눈 개폐 상태에 따른 의사소통 GUI 개발**  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**주요 내용:** 얼굴 영상에서 눈을 인식한 뒤, 양 눈의 깜빡임 상태를 인식하여 모스부호 기반의 알파벳 변환 GUI 개발.  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tech Stack:** `Android`, `Matlab` (Image Processing Toolbox, Signal Processing Toolbox)  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Achievements:**  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;전국 의공학 학부생 아이디어 공모전 우수상 수상  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URP 학부생연구지원프로그램 선정 (한국과학창의재단)
   
   <br/>
   
   ### 📅 2016
-  #### **-CLI 기반 삼국지 게임 기능추가**  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**주요 내용:** 구현된 CLI 기반 게임에서 일부 기능 추가 및 수정.  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tech Stack:** `C`
+  #### &nbsp;&nbsp;&nbsp;**-CLI 기반 삼국지 게임 기능추가**  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**주요 내용:** 구현된 CLI 기반 게임에서 일부 기능 추가 및 수정.  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tech Stack:** `C`
   
+  <br/>
   <br/>
   
   ## 📝 Research & Academic Status
   -   **Research Proposal (연구 제안):** (작업 중)
   -   **Research Paper (논문):** (작업 중)
   -   **Conference (학술 발표):** (작업 중)
+    
+  <br/>
+  <br/>
+  
+  ## 🎓 Education
+  ### 2022.03 – 2025.08 울산대학교 전기전자컴퓨터공학과 의용생체공학전공 박사 수료
+  ### 2020.03 – 2022.02 울산대학교 전기전자컴퓨터공학과 의용생체공학전공 석사 졸업
+  ### 2016.03 – 2020.02 울산대학교 공과대학 전기공학부 의공학전공 학사 졸업
 
   
   <br/>
