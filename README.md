@@ -13,9 +13,9 @@
   
   ## 👀 About Me
   
-  #### :raising_hand: I am looking forward to absorb knowledge🧠, gain experience📚, collaborate🤝 and build amazing products🏭 for the world🌍! 
+  #### :raising_hand: I am looking forward to absorb knowledge, gain experience, collaborate and build amazing products for the world🌍! 
   #### :fire: I am interested in biomedical engineering, neuro-engineering, economics, financial engineering, and machine learning.
-  #### :mortar_board: I have 9 years of academic and research experience in Biomedical Engineering, Neuro-engineering, and Machine Learning.
+  #### :mortar_board: I have 9 years of academic and research experience in biomedical engineering, neuro-engineering, and machine Learning.
   <br/>
   <br/>
 
