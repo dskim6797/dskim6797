@@ -93,7 +93,7 @@
   <br/>
   
   #### &nbsp;&nbsp;&nbsp;**-EMG를 이용한 모스코드 기반 artificial arm 제어 시스템 개발**  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**주요 내용:** Labview를 이용하여 아두이노 EMG 모듈에서 근수축 신호를 받아 모스부호로 변환하고, artificial arm을 제어하는 시스템 개발.  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**주요 내용:** Labview를 이용하여 아두이노 EMG 모듈에서 근전도를 받아 모스부호로 변환하고, artificial arm을 제어하는 시스템 개발.  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tech Stack:** `Arduino`, `Labview`  
   
   <br/>
