@@ -19,7 +19,7 @@
   <br/>
   <br/>
 
-  ## 📜 Tech Stack & Tools
+  ## 📜 Tech Stack
   
   ### Programming Languages
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -37,14 +37,13 @@
   <br/>
 
   ### Web Development Frameworks
-  <img src="https://img.shields.io/badge/Django%20(Planned)-092E20?style=flat-square&logo=Django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask%20(Planned)-000000?style=flat-square&logo=Flask&logoColor=white"/>
+   (In training)
   <br/>
 
   ### ETC
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LabVIEW-000000?style=flat-square&logo=national-instruments&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/LabView-000000?style=flat-square&logo=national-instruments&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/AVR-00599C?style=flat-square&logo=microchip&logoColor=white"/>
   <br/>
   <br/>
@@ -65,13 +64,17 @@
 
   ## 💡 Next Step: Backend Development Stack
   
-  현재 집중적으로 학습하고 있는 핵심 백엔드 기술입니다.
-  
+  In training (2025.09 - 2026.03)
+
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20AWS%20(Learning)-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <br/>
   
   <hr>
